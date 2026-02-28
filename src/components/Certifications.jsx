@@ -8,7 +8,7 @@ const certs = [
     issuer: 'Oracle University',
     date: 'Sep 2025',
     icon: '☁️',
-    link: 'https://your-certificate-link.com',
+    link: 'https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC6872856&trackId=OCI25DSOCP&key=f9633d6bff1b031546c081031dd7ab70ac36959c',
     color: '#f97316',
   },
   {
@@ -16,7 +16,7 @@ const certs = [
     issuer: 'Oracle University',
     date: 'Sep 2025',
     icon: '🤖',
-    link: 'https://your-certificate-link.com',
+    link: 'https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC6872856&trackId=OCI25GAIOCP&key=e0da27a4f0b1022dc044fc7ab26590b77085996f',
     color: '#a855f7',
   },
   {
